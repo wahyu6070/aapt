@@ -5,11 +5,11 @@ aapt binary is executable binary ''aapt``,``aapt2``, ``zipalign``
 ### Terminal android with su
 - ``su``
 - ``aapt2``
-- ``zipalign"
+- ``zipalign``
 
 ### termux with non su
 - ``aapt2``
-- ``zipalign"
+- ``zipalign``
 
 
 ## Support installing
@@ -18,5 +18,5 @@ aapt binary is executable binary ''aapt``,``aapt2``, ``zipalign``
 - ksu module
 - apatch module
 
-## Thannk
+## Thanks
 executable based [maximoff](https://github.com/Maximoff/binaries)
